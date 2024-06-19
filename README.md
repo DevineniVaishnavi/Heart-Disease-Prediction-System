@@ -1,2 +1,14 @@
-# Heart-Disease-Prediction-System
-Conducted correlative analysis of multiple ML algorithms,Implemented preprocessing, EDA, and model evaluation techniques to enhance prediction accuracy and performance metrics. Evaluated model performance using accuracy, precision, recall, and F1-score, ensuring robust and reliable predictions
+# Heart_Disease_Prediction_Using_MachineLearning
+Performance of Top 10 Machine Learning Algorithms for Heart Disease Prediction 
+->Random Forest ALgorithm
+->KNN Algorithm
+->ANN Algorithm
+->RNN Algorithm
+->XGBoost Algorithm
+->LSTM Algorithm
+->Desicion Tree Classifier
+->Logistic Regression Algorithm
+->SVM ALgorithm
+->Naive Bayes Algorithm
+
+Here, I applied all the 10 machine learning algorithm models to predict whether the person is suffering with heart disease or not and did the the performance analysis on those 10 algorithms by calculating accuracy, precision, recall, f1_score etc...
